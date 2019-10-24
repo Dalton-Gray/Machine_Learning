@@ -47,4 +47,4 @@ print("Training Set mean Absolute Error: %.2f" % mse)
 
 mse = mean_absolute_error(y_test, model.predict(X_test))
 
-print("Training Set mean Absolute Error: %.2f" % mse)
+print("Test Set mean Absolute Error: %.2f" % mse)
