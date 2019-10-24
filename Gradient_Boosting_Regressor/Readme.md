@@ -10,5 +10,4 @@ available here: https://www.kaggle.com/anthonypino/melbourne-housing-market
 
 ## Dependencies
 Scikit-learn (http://scikit-learn.org/stable/install.html)
-numpy (pip install numpy)
-scipy (pip install scipy)
+pandas (pip install pandas)
